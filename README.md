@@ -12,7 +12,7 @@
   + triangle
   + Polygons
 
-    3D shapes :
+   3D shapes :
   + Cube
   + Rectangular prism
   + Sphere
